@@ -4,22 +4,14 @@
 
     
   <url>
-    <loc>http://blog.taopenhua.com/welcome-to-whilewon-s-blog/</loc>
-    <lastmod>2016-08-11T03:22:40.949Z</lastmod>
+    <loc>http://blog.taopenhua.com/hexo-%E6%9A%82%E5%91%8A%E4%B8%80%E6%AE%B5%E8%90%BD-%E8%AE%B0%E5%BD%95%E4%B8%80%E4%B8%8BTODO/</loc>
+    <lastmod>2016-08-11T12:20:50.084Z</lastmod>
     <data>
         <display>
-        <title>第一次遇见你hexo,爱死你了</title>
-        <pubTime>2016-08-10T12:21:22.000Z</pubTime>
+        <title>hexo,暂告一段落,记录一下TODO</title>
+        <pubTime>2016-08-11T12:05:31.000Z</pubTime>
         
-        <tag>github</tag>
-         
         <tag>hexo</tag>
-         
-        <tag>blog</tag>
-         
-        <tag>markdown</tag>
-         
-        <tag>Internet Technology</tag>
          
          
            
@@ -27,4 +19,25 @@
     </data>
     </url>
 
+    
+  <url>
+    <loc>http://blog.taopenhua.com/welcome-to-whilewon-s-blog/</loc>
+    <lastmod>2016-08-11T12:03:45.799Z</lastmod>
+    <data>
+        <display>
+        <title>第一次遇见你hexo,爱死你了</title>
+        <pubTime>2016-08-10T12:21:22.000Z</pubTime>
+        
+        <tag>hexo</tag>
+         
+        <tag>markdown</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+    
 </urlset>
