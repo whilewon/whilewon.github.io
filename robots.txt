@@ -10,3 +10,6 @@ Disallow: /css/
 Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
+
+http://blog.taopenhua.com/baidusitemap.xml
+http://blog.taopenhua.com/sitemap.xml
